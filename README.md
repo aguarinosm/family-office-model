@@ -2,7 +2,7 @@ Planificación Patrimonial Estratégica & Family Office (Modelo HNWI)
 
 Panel de control interactivo y modelo analítico diseñado para la estructuración patrimonial de un cliente HNWI (High Net Worth Individual) tras un evento de liquidez de 2.500.000 €.
 
-🔗 Ver el Cuadro de Mando Interactivo (Live Preview) (Nota: Pon aquí tu enlace final de GitHub Pages)
+🔗 Ver el Cuadro de Mando Interactivo: https://aguarinosm.github.io/family-office-model/
 
 Resumen del Business Case
 
